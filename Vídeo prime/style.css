@@ -21,7 +21,7 @@ body{
 }
 
 .container{
-    height: 100vh; 
+    height: 140vh; 
     background-repeat: no-repeat;
     background-size: contain;
 }
