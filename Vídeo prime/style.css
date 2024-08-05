@@ -24,4 +24,10 @@ body{
     height: 140vh; 
     background-repeat: no-repeat;
     background-size: contain;
+    display: grid; 
+    grid-template-columns: 50% 50%;
+}
+
+.container-botao{
+    display:block; 
 }
