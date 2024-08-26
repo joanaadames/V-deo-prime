@@ -4,7 +4,7 @@
 }
 
 :root{
-    --cor-principal: #fcfdff; 
+    --cor-principal: #ffffff; 
     --cor-secundaria: #000000; 
     --cor-do-botao: #40bdee; 
     --cor-do-fundo: #000000; 
@@ -18,7 +18,6 @@ body{
 
 .principal{
     background-image: url("img/Background.png");
-    text-align: center;
 }
 
 .container{
@@ -36,20 +35,15 @@ body{
 }
 
 .container-imagem{
-    margin: 30px;
+    margin: 50px;
+margin-left: 160px;
 height: 35px;
 
 }
 
 .container-aviso{
-    font-size: 20px;
+    font-size: 15px;
     margin: 5px;
     margin-left: 14px;
     height: 20px;
-
-}
-
-.container-caixa{
-    margin: 10px;
-    font-size: 20px;
 }
